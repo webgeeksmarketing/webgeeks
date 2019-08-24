@@ -1160,12 +1160,12 @@ body {
 }
 .cid-ryTSpsx3fS .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-ryTSpsx3fS .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-ryTSpsx3fS a {
   font-style: normal;
@@ -1256,7 +1256,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ryTSpsx3fS .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1971,12 +1971,12 @@ body {
 }
 .cid-ryTSpsx3fS .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-ryTSpsx3fS .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-ryTSpsx3fS a {
   font-style: normal;
@@ -2067,7 +2067,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ryTSpsx3fS .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2370,8 +2370,9 @@ body {
 }
 .cid-rzcwe9WJGU {
   padding-top: 120px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background10.jpg");
+  padding-bottom: 0px;
+  background-color: #0c57bf;
+  background: linear-gradient(90deg, #0c57bf, #000000);
 }
 .cid-rzcwe9WJGU .media-content .btn-bgr {
   z-index: 0;
@@ -2403,8 +2404,8 @@ body {
   background-color: #ffffff;
 }
 .cid-rA6oBUi1Rf {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 #custom-html-33 {
@@ -2576,12 +2577,12 @@ body {
 }
 .cid-ryTSpsx3fS .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-ryTSpsx3fS .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-ryTSpsx3fS a {
   font-style: normal;
@@ -2672,7 +2673,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ryTSpsx3fS .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3122,12 +3123,12 @@ body {
 }
 .cid-ryTSpsx3fS .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-ryTSpsx3fS .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-ryTSpsx3fS a {
   font-style: normal;
@@ -3218,7 +3219,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ryTSpsx3fS .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3719,12 +3720,12 @@ body {
 }
 .cid-ryTSpsx3fS .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-ryTSpsx3fS .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-ryTSpsx3fS a {
   font-style: normal;
@@ -3815,7 +3816,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ryTSpsx3fS .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -4139,12 +4140,12 @@ body {
 }
 .cid-ryTSpsx3fS .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-ryTSpsx3fS .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-ryTSpsx3fS a {
   font-style: normal;
@@ -4235,7 +4236,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ryTSpsx3fS .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -4559,12 +4560,12 @@ body {
 }
 .cid-ryTSpsx3fS .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-ryTSpsx3fS .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-ryTSpsx3fS a {
   font-style: normal;
@@ -4655,7 +4656,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ryTSpsx3fS .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
