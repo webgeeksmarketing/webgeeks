@@ -2412,9 +2412,10 @@ body {
   /* Type valid CSS here */
 }
 #custom-html-33 div {
-  padding: 40px 0 80px;
+  padding: 20px 0 80px;
   color: #777;
   text-align: center;
+  margin: 0 auto;
 }
 #custom-html-33 p {
   font-size: 60px;
